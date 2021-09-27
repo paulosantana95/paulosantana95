@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Paulo Santana 👋🏽
 
 - 💼 Hoje trabalho como Morotista de aplicativo
-- 📚 Estudando JavaScript
+- 📚 Análise e Desenvolvimento de Sistemas - 1º semestre
 - 🎯 Procuro estágio na área de web dev
 - 💻 Stack que estou estudando: HTML5 ✅, CSS3 ✅, Bootstrap🆕, JavaScript 🆕, React, Node, MySQL, PHP, WordPress, .NET
 
