@@ -3,6 +3,7 @@
 - 💼 Hoje trabalho como Morotista de aplicativo
 - 📚 Estudando JavaScript
 - 🎯 Procuro estágio na área de web dev
+- 💻 Stack que estou estudando: HTML5 ✅, CSS3 ✅, JavaScript 🆕, Bootstrap, React, Node, MySQL, PHP, WordPress, .NET
 
 ##
 
