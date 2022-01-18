@@ -3,7 +3,7 @@
 - 💼 Hoje trabalho como Morotista de aplicativo
 - 📚 Análise e Desenvolvimento de Sistemas - 2º semestre
 - 🎯 Procuro estágio na área de web dev
-- 💻 Stack que estou estudando: HTML5 ✅, CSS3 ✅, Bootstrap ✅, JavaScript ✅, React 🆕, NodeJS+MongoDB, SQL in NodeJS, PHP, WordPress, .NET
+- 💻 Stack que estou estudando: HTML5 ✅, CSS3 ✅, Bootstrap ✅, JavaScript ✅, React ✅, NodeJS+MongoDB, SQL in NodeJS, PHP, WordPress, .NET
 
 ##
 
