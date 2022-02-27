@@ -1,8 +1,7 @@
 ### Olá, Eu sou o Paulo Santana 👋🏽
    <br />
-<a href="https://github.com/paulosantana95/github-profile-views-counter">
-<img src="https://komarev.com/ghpvc/?username=paulosantana95&style=for-the-badge">
-    <br />
+   <a href="https://github.com/paulosantana95/github-profile-views-counter">
+   <img src="https://komarev.com/ghpvc/?username=paulosantana95&style=for-the-badge">
 <br />
 - 💼 Hoje trabalho como Morotista de aplicativo
 - 📚 Análise e Desenvolvimento de Sistemas
