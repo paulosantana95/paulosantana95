@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Paulo Santana 👋🏽
    
-- 💼 Hoje trabalho como Morotista de aplicativo
+- 💼 Trabalho como Morotista de aplicativo
 - 📚 Análise e Desenvolvimento de Sistemas
 - 🎯 Procuro estágio na área de desenvolvimento web
 - 💻 Entusiasta em javascript
