@@ -1,7 +1,5 @@
 ### Olá, Eu sou o Paulo Santana 👋🏽
 
-- 📚 Análise e Desenvolvimento de Sistemas
-- 🎯 Procuro estágio na área de desenvolvimento web
 - 💻 Entusiasta em javascript
    
    <a href="https://github.com/paulosantana95/github-profile-views-counter">
