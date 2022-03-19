@@ -2,7 +2,6 @@
 
 - 💻 Entusiasta em javascript
    
-   <a href="https://github.com/paulosantana95/github-profile-views-counter">
 
 ##
 
