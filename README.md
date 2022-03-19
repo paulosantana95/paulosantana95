@@ -3,7 +3,7 @@
 - 💻 Entusiasta em javascript
    
    <a href="https://github.com/paulosantana95/github-profile-views-counter">
-   <img src="https://komarev.com/ghpvc/?username=paulosantana95&style=for-the-badge">
+   <img src="https://komarev.com/ghpvc/?username=paulosantana95">
 
 ##
 
