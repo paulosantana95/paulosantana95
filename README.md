@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Paulo Santana 👋🏽
 
-- 💻 Entusiasta em javascript
+- 💻 Entusiasta em JavaScript
    
 
 ##
