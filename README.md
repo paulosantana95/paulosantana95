@@ -46,7 +46,7 @@
      <br />
      <br />
    <img align="center" title="TypeScript" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-   <img align="center" title="Nestjs" alt="Nestjs" height="30" width="40" src="https://www.vhv.rs/dpng/d/498-4989583_nestjs-logo-hd-png-download.png">
+   <img align="center" title="Nestjs" alt="Nestjs" height="30" width="40" src="https://uploads-ssl.webflow.com/61331aa6abb9fe5610bdfadb/614bd8ecf145b32538fff8b0_ed259587041c5ab79f24cb1e341f0a37.png"/>
    <img align="center" title="Laravel" alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
    <img align="center" title="Go" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
       
