@@ -24,7 +24,7 @@
       <img align="center"  title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" title="Bootstrap" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <img align="center"  title="Javascript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center"  title="Javascript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+      <img align="center"  title="Vuejs" alt="Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 <br />
 <br /> 
 </kbd>
@@ -34,9 +34,9 @@
  <br /> 
   <img align="center" title="React" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" title="PHP" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" title="docker" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" title="mongodb" alt="mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
    
  <br />
  <br />
@@ -46,8 +46,9 @@
      <br />
      <br />
    <img align="center" title="TypeScript" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-   <img align="center" title="TypeScript" alt="TypeScript" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg](https://docs.nestjs.com/assets/logo-small.svg)">
-   <img align="center" title="NodeJS" alt="NodeJS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
+   <img align="center" title="Nestjs" alt="Nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg](https://docs.nestjs.com/assets/logo-small.svg)">
+   <img align="center" title="Laravel" alt="Laravel" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png">
+   <img align="center" title="Go" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
       
  <br />
  <br />
