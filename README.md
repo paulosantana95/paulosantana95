@@ -15,7 +15,7 @@
  ##### 🧠 Skills Set 
  
   <div style="display: inline_block;">
- <kbd align="center">
+ <kbd align="left">
       <kbd>Knowledge in:</kbd>
       <br />
       <br />
@@ -33,7 +33,8 @@
 <br />
 <br /> 
 </kbd>
-<kbd align="center">
+<br /> 
+<kbd align="left">
 <kbd>Studying:</kbd>
  <br />
  <br /> 
@@ -46,7 +47,8 @@
  <br />
  <br />
 </kbd> 
-<kbd align="center">
+<br /> 
+<kbd align="left">
 <kbd>Interest in:</kbd> 
      <br />
      <br />
