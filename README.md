@@ -34,6 +34,7 @@
 <br /> 
 </kbd>
 <br /> 
+<br /> 
 <kbd align="left">
 <kbd>Studying:</kbd>
  <br />
@@ -47,6 +48,7 @@
  <br />
  <br />
 </kbd> 
+<br /> 
 <br /> 
 <kbd align="left">
 <kbd>Interest in:</kbd> 
